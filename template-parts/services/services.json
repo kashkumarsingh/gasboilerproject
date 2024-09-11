@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Heating",
+    "image": "https://heatplex.com/wp-content/uploads/2023/06/1-2.png",
+    "description": "Experience warmth with our expert heating solutions tailored to your needs.",
+    "link": "/service-plan"
+  },
+  {
+    "title": "Gas",
+    "image": "https://heatplex.com/wp-content/uploads/2023/06/2-2.png",
+    "description": "Ensure safety and efficiency with our professional gas services.",
+    "link": "/service-plan"
+  },
+  {
+    "title": "Plumbing",
+    "image": "https://heatplex.com/wp-content/uploads/2023/06/3-2.png",
+    "description": "From installation to repair, our expert plumbers provide hassle-free solutions.",
+    "link": "/service-plan"
+  },
+  {
+    "title": "Boilers",
+    "image": "https://heatplex.com/wp-content/uploads/2023/06/4-1.png",
+    "description": "Boost your home’s comfort with our wide range of boiler services.",
+    "link": "/service-plan"
+  },
+  {
+    "title": "Smart Home",
+    "image": "https://heatplex.com/wp-content/uploads/2023/06/5-1.png",
+    "description": "Step into the future with our state-of-the-art smart home technology services.",
+    "link": "/service-plan"
+  },
+  {
+    "title": "Commercial",
+    "image": "https://heatplex.com/wp-content/uploads/2023/06/6.png",
+    "description": "Leverage our comprehensive range of services for your commercial space.",
+    "link": "/service-plan"
+  },
+  {
+    "title": "Landlords",
+    "image": "https://heatplex.com/wp-content/uploads/2023/06/Landlord-.png",
+    "description": "Efficient, reliable property maintenance services tailored for landlords.",
+    "link": "/service-plan"
+  },
+  {
+    "title": "Service Plans",
+    "image": "https://heatplex.com/wp-content/uploads/2023/06/Service-Plan-1.png",
+    "description": "Comprehensive care for your heating and plumbing with our service plans.",
+    "link": "/service-plan"
+  }
+]
